@@ -27,3 +27,7 @@ body{
 .tri3{
   margin-left: 60%;
 }
+fieldset{
+  border-radius: 50px;
+  border-color: black;
+}
