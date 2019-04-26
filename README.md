@@ -2,7 +2,7 @@
 
 #### 26/04/2019
 
-#### By **Muhindo Kiro**
+#### By Muhindo Kiro
 
 ## Description
 
@@ -25,6 +25,6 @@ How to contacct me;
 - +254790783994
 
 ### License
-* MIT license *
+MIT License (MIT)
 
-Copyright (c) 2019 **{Muhindo Kiro}**
+Copyright (c) 2019 Muhindo Kiro
