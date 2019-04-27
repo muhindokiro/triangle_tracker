@@ -1,4 +1,4 @@
-function display(){
+function valuate(){
   var Sa = parseInt(document.getElementById("fno.").value);
   var Sb = parseInt(document.getElementById("sno.").value);
   var Sc = parseInt(document.getElementById("tno.").value);
