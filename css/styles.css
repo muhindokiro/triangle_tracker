@@ -32,14 +32,17 @@ fieldset{
   border-color: black;
 }
 .l1{
+  font-style: italic;
   margin-left: 5%;
   font-size: 19px;
 }
 .w1{
+  font-style: italic;
   margin-left: 15%;
   font-size: 19px;
 }
 .h1{
+  font-style: italic;
   margin-left: 25%;
   font-size: 19px;
 }
@@ -58,5 +61,8 @@ fieldset{
   font-style: italic;
 }
 #abt3{
+  font-style: italic;
+}
+#result{
   font-style: italic;
 }
